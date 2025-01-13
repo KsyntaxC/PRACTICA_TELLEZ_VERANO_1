@@ -34,7 +34,6 @@ public class Ejercicio9 {
         } else if (e < m) {
             m = e;
         }
-
         System.out.println("El mayor es " + M);
         System.out.println("El menor es " + m);
     }
