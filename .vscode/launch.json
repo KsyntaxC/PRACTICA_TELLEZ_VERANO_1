@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio25",
+            "request": "launch",
+            "mainClass": "Ejercicio25",
+            "projectName": "PRACTICA_TELLEZ_VERANO_1_e4a5aac9"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio24",
             "request": "launch",
             "mainClass": "Ejercicio24",
