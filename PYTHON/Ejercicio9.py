@@ -10,18 +10,15 @@ else:
     M=b; m=a
 if c>M:
     M=c
-else:
-    if c<m:
-        m=c
+elif c<m:
+    m=c
 if d>M:
     M=d
-else:
-    if d<m:
-        m=d
+elif d<m:
+    m=d
 if e>M:
     M=e
-else:
-    if e<m:
-        m=e
+elif e<m:
+    m=e
 print("El mayor es",M)
 print("El menor es",m)
