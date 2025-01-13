@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio24",
+            "request": "launch",
+            "mainClass": "Ejercicio24",
+            "projectName": "PRACTICA_TELLEZ_VERANO_1_e4a5aac9"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio23",
+            "request": "launch",
+            "mainClass": "Ejercicio23",
+            "projectName": "PRACTICA_TELLEZ_VERANO_1_e4a5aac9"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio22",
+            "request": "launch",
+            "mainClass": "Ejercicio22",
+            "projectName": "PRACTICA_TELLEZ_VERANO_1_e4a5aac9"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio21",
+            "request": "launch",
+            "mainClass": "Ejercicio21",
+            "projectName": "PRACTICA_TELLEZ_VERANO_1_e4a5aac9"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio20",
+            "request": "launch",
+            "mainClass": "Ejercicio20",
+            "projectName": "PRACTICA_TELLEZ_VERANO_1_e4a5aac9"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio19",
             "request": "launch",
             "mainClass": "Ejercicio19",
